@@ -5,5 +5,5 @@ i got the solve inspiration.
 
 Firstly , we know the b,a,t,l,e letters in the flag ord value(their unicode val). So we can replace them in the encrypton function.
 That lead us to a five equation system that i solve in https://www.dcode.fr/elimination-gauss
-Then we got the unknown a,b,c,d,e random value and we can write then our decryption solution.(See it at the gosssolution py file and 
-picture).
+Then we got the unknown a,b,c,d,e random value and we can write then our decryption solution.(See it at the iLovepython py file and 
+the abcdefinding picture).
