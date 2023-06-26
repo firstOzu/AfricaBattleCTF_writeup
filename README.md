@@ -1,7 +1,7 @@
 # AfricaBattleCTF_writeup
 My solved challenges writeups.The  another left will be added soon.
 Just lazy to do all now , it's just a trying.
-I solved ten challenges and i was 94th on 361 people.
+I solved ten challenges and i was 94th in 361 people.
 
 Solved:
 
